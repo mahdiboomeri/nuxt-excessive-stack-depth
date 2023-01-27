@@ -1,0 +1,15 @@
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.vercel
+.vercel_build_output
+.netlify
+.stormkit
+.env
+dist
+.idea
+.turbo
+.run
